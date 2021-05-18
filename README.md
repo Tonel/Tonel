@@ -1,4 +1,4 @@
-# Antonello Zanini — @antozanini95
+# Antonello Zanini — @Tonel
 ### Visit my website: [antonellozanini.com](https://antonellozanini.com/en)
 Hi! I'm Antonello!  
 
