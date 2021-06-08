@@ -1,6 +1,9 @@
 # Antonello Zanini — @Tonel
-### Visit my website: [antonellozanini.com](https://antonellozanini.com/en)
-Hi! I'm Antonello!  
+### Visit my website: [antonellozanini.com](https://antonellozanini.com)
+Hi, I'm Antonello! 
+I'm a Software Engineer & Technical Writer from Italy
+
+#### [See all my articles](https://antozanini.medium.com/start-here-5c7a7fa2bc45)
 
 ### 🔧 - Technologies & Tools
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=0366d6)
@@ -16,7 +19,7 @@ Hi! I'm Antonello!
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tonel&repo=multi-layered-architecture-springboot)](https://github.com/Tonel/multi-layered-architecture-springboot) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tonel&repo=web-scraping)](https://github.com/Tonel/web-scraping)
 
 ### ✍🏻 - My Recent Posts on Medium
-#### [https://medium.com/@antozanini](https://medium.com/@antozanini "@antozanini") 
+#### [https://antozanini.medium.com/](https://antozanini.medium.com/) 
 <!-- https://medium.com/better-programming/add-your-recent-published-mediums-article-on-github-readme-9ffaf3ad1606 -->
 <a href="https://github-readme-medium-recent-article.vercel.app/medium/@antozanini/0">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@antozanini/0"> 
@@ -26,10 +29,4 @@ Hi! I'm Antonello!
 </a>
 <a href="https://github-readme-medium-recent-article.vercel.app/medium/@antozanini/2">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@antozanini/2"> 
-</a>  
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@antozanini/3">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@antozanini/3"> 
-</a>
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@antozanini/4">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@antozanini/4"> 
-</a>
+</a> 
