@@ -4,7 +4,8 @@
 [https://antonellozanini.com](https://antonellozanini.com)
 
 ### ✒️ - See all my articles:
-[https://github.com/Tonel/articles](https://github.com/Tonel/articles)
+- [https://github.com/Tonel/technical-articles](https://github.com/Tonel/technical-articles)
+- - [https://github.com/Tonel/articles](https://github.com/Tonel/articles)
 
 ### 🔧 - Technologies & Tools
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0366d6)
