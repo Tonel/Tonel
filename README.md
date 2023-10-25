@@ -1,7 +1,12 @@
-# Antonello Zanini — @Tonel
+# Antonello Zanini — @Tonel | CEO of Writech
+I am a software engineer, but I prefer to call myself a Technology Bishop.
+Spreading knowledge through writing is my mission.
 
 ### 🌐 - Visit my website: 
 [https://antonellozanini.com](https://antonellozanini.com)
+
+### 💼 - Visit my company's site: 
+[https://writech.run](https://writech.run)
 
 ### ✒️ - See all my articles:
 - [https://github.com/Tonel/technical-articles](https://github.com/Tonel/technical-articles)
@@ -9,10 +14,10 @@
 
 ### 🔧 - Technologies & Tools
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=javascript&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=javascript&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=spring&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=spring&logoColor=white&color=0366d6)
@@ -21,5 +26,5 @@
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=0366d6)
 
 ### 📈 - GitHub Stats
-<img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonel&theme=graywhite&hide=css,tsql" /> <img align="center" height="210"  src="https://github-readme-stats.vercel.app/api/?username=Tonel&theme=graywhite" />  
+<img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonel&theme=github_dark&hide=css,tsql" /> <img align="center" height="210"  src="https://github-readme-stats.vercel.app/api/?username=Tonel&theme=github_dark" />  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tonel&repo=multi-layered-architecture-springboot)](https://github.com/Tonel/multi-layered-architecture-springboot) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tonel&repo=web-scraping)](https://github.com/Tonel/web-scraping)
