@@ -8,7 +8,6 @@ Spreading knowledge through writing is my mission.
 ![](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=0366d6)
 
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=spring&logoColor=white&color=0366d6)
