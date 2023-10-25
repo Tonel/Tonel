@@ -1,7 +1,9 @@
 # Antonello Zanini — @Tonel | CEO of Writech
+<img decoding="async" loading="lazy" src="https://writech.run/wp-content/uploads/2023/09/Profile-500x500-1.jpg" alt="Antonello Zanini" width="200" height="200">
 I am a software engineer, but I prefer to call myself a Technology Bishop.
 Spreading knowledge through writing is my mission.
 
+### 🛠️ Skills
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=javascript&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=0366d6)
