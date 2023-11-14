@@ -21,7 +21,7 @@ Spreading knowledge through writing is my mission.
 ### 🎯 Achievements
 - ✅ 400+ technical articles written
 - ✅ 2.5+ million views generated
-- ✅ 20+ newsletters I was featured in
+- ✅ 20+ newsletters my content was featured in
 
 ### ✒️ My Articles
 - [https://github.com/Tonel/technical-articles](https://github.com/Tonel/technical-articles)
