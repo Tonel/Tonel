@@ -20,7 +20,7 @@ Spreading knowledge through writing is my mission.
 
 ### 🎯 Achievements
 - ✅ 400+ technical articles written
-- ✅ 2.5+ million views generated
+- ✅ 3+ million views generated
 - ✅ 20+ newsletters my content was featured in
 
 ### ✒️ My Articles
