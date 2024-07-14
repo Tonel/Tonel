@@ -1,5 +1,5 @@
-# Antonello Zanini — @Tonel | Freelance Technical Writer and Editor
-I am a technical writer, technical editor, and software engineer, but I prefer to call myself a Technology Bishop.
+# Antonello Zanini — @Tonel | Technical Writer and Editor
+I am a freelance technical writer, technical editor, and software engineer, but I prefer to call myself a _Technology Bishop_.
 Spreading knowledge through writing is my mission.
 
 <div>
