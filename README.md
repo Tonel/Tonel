@@ -1,5 +1,5 @@
-# Antonello Zanini — @Tonel | CEO of Writech
-I am a software engineer, but I prefer to call myself a Technology Bishop.
+# Antonello Zanini — @Tonel | Freelance Technical Writer and Editor
+I am a technical writer, technical editor, and software engineer, but I prefer to call myself a Technology Bishop.
 Spreading knowledge through writing is my mission.
 
 <div>
@@ -52,9 +52,9 @@ Spreading knowledge through writing is my mission.
 </div>
 
 ### 🎯 Achievements
-- ✅ 400+ technical articles written
+- ✅ 700+ technical articles written
 - ✅ 3+ million views generated
-- ✅ 20+ newsletters my content was featured in
+- ✅ 25+ newsletters my content was featured in
 
 ### ✒️ My Articles
 - [https://github.com/Tonel/technical-articles](https://github.com/Tonel/technical-articles)
