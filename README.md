@@ -52,13 +52,12 @@ Spreading knowledge through writing is my mission.
 </div>
 
 ### 🎯 Achievements
-- ✅ 700+ technical articles written
-- ✅ 3+ million views generated
+- ✅ 875+ technical articles written
+- ✅ 5+ million views generated
 - ✅ 25+ newsletters my content was featured in
 
-### ✒️ My Articles
+### ✒️ My Portfolio
 - [https://github.com/Tonel/technical-articles](https://github.com/Tonel/technical-articles)
-- [https://github.com/Tonel/articles](https://github.com/Tonel/articles)
 
 ### ℹ️ Info
 | Information | Link |
@@ -66,4 +65,4 @@ Spreading knowledge through writing is my mission.
 | Email             | <a href="mailto:antonello@writech.run" title="antonello@writech.run">antonello@writech.run</a> |
 | LinkedIn          | <a href="https://www.linkedin.com/in/antonello-zanini/" title="https://www.linkedin.com/in/antonello-zanini/" target="_blank">https://www.linkedin.com/in/antonello-zanini/</a> |
 | Personal Site     | <a href="https://antonellozanini.com" title="https://antonellozanini.com" target="_blank">https://antonellozanini.com</a> |
-| Company's Site    | <a href="https://writech.run" title="https://writech.run" target="_blank">https://writech.run</a> |
+| Dev.to    | <a href="https://dev.to/antozanini" title="https://dev.to/antozanini" target="_blank">https://dev.to/antozanini</a> |
