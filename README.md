@@ -1,5 +1,5 @@
 # Antonello Zanini — @Tonel | Technical Writer and Editor
-I am a freelance technical writer, technical editor, and software engineer, but I prefer to call myself a _Technology Bishop_.
+I am a freelance technical writer, technical editor, AI integration specialist, and software engineer, but I prefer to call myself a _Technology Bishop_.
 Spreading knowledge through writing is my mission.
 
 <div>
@@ -52,9 +52,10 @@ Spreading knowledge through writing is my mission.
 </div>
 
 ### 🎯 Achievements
-- ✅ 875+ technical articles written
-- ✅ 5+ million views generated
-- ✅ 25+ newsletters my content was featured in
+- ✅ 1,000+ technical articles written
+- ✅ 7+ million views generated
+- ✅ 30+ newsletters my content was featured in
+- ✅ 40+ integrations with AI frameworks 
 
 ### ✒️ My Portfolio
 - [https://github.com/Tonel/technical-articles](https://github.com/Tonel/technical-articles)
